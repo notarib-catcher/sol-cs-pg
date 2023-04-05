@@ -4,7 +4,15 @@
 body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
+  overflow-y: hidden;
+  height: 100%;
+  margin: 0;
+}
 
+html{
+  margin: 0; 
+  height: 100%; 
+  overflow: hidden;
 }
 #c {
   position: absolute;
