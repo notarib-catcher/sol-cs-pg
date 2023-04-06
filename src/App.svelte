@@ -3,7 +3,7 @@
   import link from "./assets/iconmonstr-link-thin.svg"
 </script>
 <div id="container" class=" w-screen h-screen flex">
-  <div class=" m-auto w-fit block bg-opacity-40 mx-auto justify-center text-center text-white ">
+  <div class=" m-auto w-fit block bg-opacity-40 mx-auto justify-center -translate-y-20 text-center text-white ">
     <div class=" w-fit p-10 m-auto rounded-lg bg-[#171719] mt-10 font-light bg-opacity-70 text-lg">
       <div class=" fadeinanim">
         <img src={logo} alt="logo" class=" imgrotate h-[300px]">
